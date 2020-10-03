@@ -4,8 +4,8 @@ title: "Color Fix"
 descripion: A basic script to add more player colours.
 ---
 
-This tutorial is to be used with [GetPlayerColor](../functions/GetPlayerColor),
-if you do not use [SetPlayerColor](../functions/SetPlayerColor) in your script
+This tutorial is to be used with [GetPlayerColor](../functions/scripting/GetPlayerColor),
+if you do not use [SetPlayerColor](../functions/scripting/SetPlayerColor) in your script
 when players connect.
 
 ```c
